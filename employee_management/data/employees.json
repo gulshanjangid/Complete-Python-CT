@@ -1,0 +1,25 @@
+[
+    {
+        "id": 101,
+        "name": "Gulshan",
+        "age": 25,
+        "email": "gulshan@example.com",
+        "department": "IT",
+        "salary": 50000.0,
+        "skills": [
+            "FastAPI",
+            "Python"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Gulshan",
+        "age": 22,
+        "email": "Gulshan333@gmail.com",
+        "department": "App",
+        "salary": 100000.0,
+        "skills": [
+            "MERN stack"
+        ]
+    }
+]
